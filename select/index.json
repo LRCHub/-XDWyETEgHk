@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "#hashdark",
+  "base_artist": "Charisma.com",
+  "createdAt": "2025-12-02T16:46:34.951809Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#hashdark",
+      "artist": "Charisma.com",
+      "has_synced": false,
+      "path": "select/pl_01_hashdark_Charisma.com.txt"
+    }
+  ]
+}
